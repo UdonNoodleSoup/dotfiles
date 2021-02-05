@@ -126,8 +126,4 @@ augroup fold_vimrc
                    \ setlocal foldexpr=VimFolds(v:lnum) |
                    \ setlocal foldtext=VimFoldText() |
                    \ set foldcolumn=2 foldminlines=2
-"" Todo
 
-" - add shit to path and registry
-" - rm notepad++
-" - markdown
