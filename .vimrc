@@ -14,6 +14,7 @@ set encoding=utf-8
 set shell=pwsh.exe
 set shell=pwsh
 set cmdheight=1
+autocmd FileType help wincmd L
 "" Statusline
 func! VimMode() abort
     let md = mode()
